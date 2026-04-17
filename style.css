@@ -4,9 +4,6 @@ body {
   padding: 20px;
 }
 
-
-
-
 header {
   text-align: center;
   background-color: #2c2929;
@@ -40,7 +37,7 @@ p {
 
 .para1 {
   color: rgb(0, 102, 255);
-  border: 2px solid black;
+  border: 5px solid black;
   padding: 10px;
 }
 
@@ -83,6 +80,7 @@ footer {
   color: white;
   padding: 10px;
 }
+
 .car-image {
   display: block;
   margin: 20px auto; 
